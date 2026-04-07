@@ -1,0 +1,12 @@
+{
+  "name": "sangtae-chang",
+  "version": "1.0.0",
+  "description": "A two-line statusline showing session, model, context bar, git branch, rate limits, and cost",
+  "author": {
+    "name": "sangtae-chang"
+  },
+  "homepage": "https://github.com/zzzinho/sangtae-chang",
+  "repository": "https://github.com/zzzinho/sangtae-chang",
+  "license": "MIT",
+  "keywords": ["statusline", "monitoring", "context", "git", "rate-limits", "cost"]
+}

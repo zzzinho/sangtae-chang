@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sangtae-chang",
+  "description": "A two-line statusline showing session, model, context bar, git branch, rate limits, and cost",
+  "owner": {
+    "name": "zzzinho"
+  },
+  "plugins": [
+    {
+      "name": "sangtae-chang",
+      "description": "A two-line statusline showing session, model, context bar, git branch, rate limits, and cost",
+      "source": {
+        "source": "github",
+        "repo": "zzzinho/sangtae-chang"
+      },
+      "category": "productivity"
+    }
+  ]
+}
