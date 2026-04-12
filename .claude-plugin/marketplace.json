@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "sangtae-chang",
+  "name": "zzzinho",
   "description": "A two-line statusline showing session, model, context bar, git branch, rate limits, and cost",
   "owner": {
     "name": "zzzinho"
